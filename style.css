@@ -1,0 +1,21 @@
+body{
+    background-color: aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    color: brown;
+    text-shadow: chocolate;
+}
+ul{
+    color: green;
+    font-size: 25px;
+    font-weight: bold;
+}
+h2{
+    color: crimson;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    font-size: 20px;
+    color: darkorchid;
+}
