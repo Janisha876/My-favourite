@@ -22,3 +22,19 @@ p{
 img:hover{
     transform:scale(0.9);
 }
+#contact a{
+    text-decoration: underline !important;
+    color:cornflowerblue !important;
+}
+.links:hover{
+    font-size: 25px;
+    color: deepskyblue;
+}
+#contact{
+    background-color: pink;
+    text-align: center;
+    
+}
+.contact1 h3{
+    display:inline;
+}
